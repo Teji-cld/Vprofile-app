@@ -1,8 +1,7 @@
 # Prerequisites
-#
-- JDK 11 
-- Maven 3 
-- MySQL 8
+# 
+- Maven 3.9.16-eclipse-temurin-21 
+- MySQL 8.0.33-oracle
 
 # Technologies 
 - Spring MVC
